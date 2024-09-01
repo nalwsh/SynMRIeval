@@ -5,4 +5,5 @@
 % Dimension of data set : 1 X 118 vector
 
 Acknowledgement
+
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.1711195685, Development of object-oriented synthetic data generation and evaluation methods)
